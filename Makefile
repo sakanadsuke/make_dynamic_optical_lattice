@@ -1,5 +1,5 @@
 PROG = lattice
-OBJS = make_lattice.o get_csv_contents.o check_file_status.o
+OBJS = make_lattice.o get_csv_contents.o 
 
 
 CC := g++
